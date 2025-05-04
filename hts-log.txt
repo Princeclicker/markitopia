@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 29 Jan 2025 09:39:33 at https://zefxa-next.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://zefxa-next.vercel.app/ -O1 "D:\cloned-websites\project-1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:42:40	Error: 	"Not Found" (404) at link https://zefxa-next.vercel.app/404 (from https://zefxa-next.vercel.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 33 seconds : 251 links scanned, 249 files written (13586422 bytes overall) [10129322 bytes received at 47555 bytes/sec], 5481517 bytes transferred using HTTP compression in 70 files, ratio 33%
+(1 errors, 0 warnings, 0 messages)
